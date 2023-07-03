@@ -6,7 +6,7 @@
 		"replaces": "Rifleman",
 		"movement": 3,
 		"strength": 110,
-		"uniques": ["May capture killed [Melee] units"]
+		"uniques": ["May capture killed [All] units","Earn [20]% of the damage done to [All] units as [Gold]"]
 		"cost": 70,
 		"requiredTech": "Archery",
 		"promotions": ["Logistics","March"]
@@ -19,7 +19,7 @@
 		"movement": 2,
 		"strength": 40,
 		"range": 1,
-		"cost": 1,
+		"cost": 20,
 		"requiredTech": "Archery",
 	}
 
