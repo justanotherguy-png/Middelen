@@ -9,7 +9,7 @@
 		"range": 2,
 		"cost": 300,
 		"requiredTech": "Archery",
-		"promotions": ["Logistics"],
+		"promotions": ["Logistics","March"],
 		"attackSound": "phasers"
 	}
 ]
