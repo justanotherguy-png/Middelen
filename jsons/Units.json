@@ -6,19 +6,21 @@
 		"replaces": "Rifleman",
 		"movement": 3,
 		"strength": 110,
-		"uniques": ["May capture killed [All] units","Earn [20]% of the damage done to [All] units as [Gold]"]
+		"uniques": ["May capture killed [All] units","Earn [20]% of the damage done to [All] units as [Gold]","Can build [Fort] improvements on tiles]
 		"cost": 70,
 		"requiredTech": "Archery",
 		"promotions": ["Logistics","March"]
 	}
         {
-		"name": "Conscript",
+		"name": "Conscripts",
 		"unitType": "Melee",
 		"uniqueTo": "Regima",
 		"replaces": "Musketman",
 		"movement": 2,
 		"strength": 40,
+		"hurryCostModifier": 0
 		"range": 1,
+		"uniques": ["May withdraw before melee [40]%","Founds a new city"]
 		"cost": 20,
 		"requiredTech": "Archery",
 	}
