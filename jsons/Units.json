@@ -6,7 +6,7 @@
 		"replaces": "Rifleman",
 		"movement": 3,
 		"strength": 110,
-		"uniques": ["May capture killed [All] units","Earn [20]% of the damage done to [All] units as [Gold]","Can build [Fort] improvements on tiles]
+		"uniques": ["May capture killed [All] units","Earn [20]% of the damage done to [All] units as [Gold]","Can build [Fort] improvements on tiles"]
 		"cost": 70,
 		"requiredTech": "Archery",
 		"promotions": ["Logistics","March"]
