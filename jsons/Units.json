@@ -10,7 +10,6 @@
 		"cost": 50,
 		"requiredTech": "Archery",
 		"promotions": ["Logistics","March","[Riffles] ability"],
-		"attackSound": "phasers"
 	}
         {
 		"name": "Conscript",
@@ -22,8 +21,7 @@
 		"range": 1,
 		"cost": 1,
 		"requiredTech": "Archery",
-		"uniques": "Founds a new city","May withdraw before melee ([40%])"
-		"attackSound": "phasers"
+		"uniques": "Founds a new city"
 	}
 
 ]
