@@ -1,17 +1,15 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
+		"name": "Riffles",
+		"unitType": "Melee",
+		"uniqueTo": "Separatists",
+		"replaces": "Great War Infantry",
+		"movement": 3,
 		"strength": 90,
-		"rangedStrength": 36,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"cost": 300,
+		"requiredTech": "Mining",
+		"promotions": ["Logistics","Accuracy I, Fix Bayonets"],
 		"attackSound": "phasers"
 	}
 ]
