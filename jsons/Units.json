@@ -7,9 +7,22 @@
 		"movement": 3,
 		"strength": 90,
 		"range": 2,
-		"cost": 300,
+		"cost": 50,
 		"requiredTech": "Archery",
 		"promotions": ["Logistics","March"],
 		"attackSound": "phasers"
 	}
+        {
+		"name": "Conscript",
+		"unitType": "Melee",
+		"uniqueTo": "Regima",
+		"replaces": "Great War Infantry",
+		"movement": 2,
+		"strength": 10,
+		"range": 1,
+		"cost": 1,
+		"requiredTech": "Archery",
+		"attackSound": "phasers"
+	}
+
 ]
