@@ -9,7 +9,7 @@
 		"range": 2,
 		"cost": 300,
 		"requiredTech": "Archery",
-		"promotions": ["Logistics","Accuracy I, Fix Bayonets"],
+		"promotions": ["Logistics"],
 		"attackSound": "phasers"
 	}
 ]
