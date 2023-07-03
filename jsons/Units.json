@@ -9,7 +9,7 @@
 		"range": 2,
 		"cost": 50,
 		"requiredTech": "Archery",
-		"promotions": ["Logistics","March"],
+		"promotions": ["Logistics","March","[Riffles] ability"],
 		"attackSound": "phasers"
 	}
         {
@@ -22,6 +22,7 @@
 		"range": 1,
 		"cost": 1,
 		"requiredTech": "Archery",
+		"uniques": "Founds a new city","May withdraw before melee ([40%])"
 		"attackSound": "phasers"
 	}
 
