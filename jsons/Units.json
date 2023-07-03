@@ -9,7 +9,8 @@
 		"range": 2,
 		"cost": 50,
 		"requiredTech": "Archery",
-		"promotions": ["Logistics","March","[Riffles] ability"],
+		"promotions": ["Logistics","March"]
+		"uniques": "Earn [20]% of the damage done to [All] units as [Gold]"
 	}
         {
 		"name": "Conscript",
