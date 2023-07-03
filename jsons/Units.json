@@ -9,7 +9,7 @@
 		"range": 2,
 		"cost": 50,
 		"requiredTech": "Archery",
-		"promotions": ["Logistics","Janissary ability"]
+		"promotions": ["Logistics","March"]
 	}
         {
 		"name": "Conscript",
