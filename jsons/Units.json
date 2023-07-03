@@ -8,7 +8,7 @@
 		"strength": 90,
 		"range": 2,
 		"cost": 300,
-		"requiredTech": "Mining",
+		"requiredTech": "Archery",
 		"promotions": ["Logistics","Accuracy I, Fix Bayonets"],
 		"attackSound": "phasers"
 	}
