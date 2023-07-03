@@ -9,8 +9,7 @@
 		"range": 2,
 		"cost": 50,
 		"requiredTech": "Archery",
-		"promotions": ["Logistics","March"]
-		"uniques": "Earn [20]% of the damage done to [All] units as [Gold]"
+		"promotions": ["Logistics","Janissary ability"]
 	}
         {
 		"name": "Conscript",
