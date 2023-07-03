@@ -4,7 +4,7 @@
 		"uniqueTo": "Separatists",
 		"cost": 80,
 		"hurryCostModifier": 160,
-		"Gold": 2,
+		"gold": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Archery"
   }
