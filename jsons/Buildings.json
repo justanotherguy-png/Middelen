@@ -17,7 +17,7 @@
 		"gold": 2,
 	        "production": 10,
 		"uniques": ["40% of food is carried over after a new citizen is born","Destroyed when the city is captured"],
-		"requiredTech": "Archery"
+		
   {
 		"name": "Hole Of Heretics",
 		"uniqueTo": ["Regima"]
