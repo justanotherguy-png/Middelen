@@ -47,7 +47,7 @@
 		
   }
   {
-	"name": "Recruiting Booth",
+	        "name": "Recruiting Booth",
 		"cost": 150,
 		"hurryCostModifier": 160,
 		"cityHealth": 5,
