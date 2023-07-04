@@ -16,10 +16,35 @@
 	        "happiness": 2,
 	        "uniques": ["5% of food is carried over after a new citizen is born","Destroyed when the city is captured"],
   }
-		
+  {
+	        "name": "Experimentation Lab",
+		"cost": 100,
+		"culture": 2,
+	        "production": 2,
+	        "science": 6,
+		"uniques": ["40% of food is carried over after a new citizen is born","Destroyed when the city is captured"],
+		"requiredTech": "Archery"
+  }
+	{
+	        "name": "Refugee Center",
+		"cost": 85,
+		"culture": 5,
+	        "production": 2,
+		"uniqueTo": "Separatists",
+	        "happiness": 1,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Archery"
+	}
+	{
+	        "name": "Rice Farm",
+		"cost": 55,
+		"culture": 1,
+	        "food": 3,
+		"requiredTech": "Archery"
+  }
   {
 		
-	        "name": "Hell",
+	        "name": "Hellhole",
 		"uniqueTo": "Regima",
 		"cost": 650,
 		"faith": 11,
@@ -29,6 +54,19 @@
 	        "providesFreeBuilding": "POW Camp",
 	        "isNationalWonder": "true",
 	        "quote": "To cleanse this land, and then the world, of the heretics and the disbilievers, before the eyes of God...there is no greater task and no holier deed...and now we are one step closer. - Zesto the High Priest",
-	        
   }
+	{
+		
+	        "name": "Monument of Hope",
+		"uniqueTo": "Separatists",
+		"cost": 700,
+		"faith": 1,
+                "culture": 5,
+		"happiness": 5,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Archery"
+	        "isNationalWonder": "true",
+	        "quote": "WIP. - Zennix the Lead Director",
+	        
+	}
 ]
