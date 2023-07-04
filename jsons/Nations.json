@@ -71,4 +71,76 @@
 			"P'Zulgra","P'Vahars","P'Crindith","P'Raavraes","P'Bhoknais","Pina Qho'Qru","P'Dateatz","P'Elnad","P'Izien","Pina Qol'Ell",
 			"P'Dhihien","P'Naquiel","P'Ugneon","P'Straquks","P'Nulptr","P'Ohfahl"]
 	}
+	{
+		"name": "Harbisan Republic",
+		"leaderName": "Malden",
+		"adjective": ["loyalist"],
+		"startBias": ["Avoid Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature.",
+		
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "How is it possible?",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,6,6],
+		"innerColor": [25,20,20],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Hive","Throczan","Chovex","Imphet","Omphead","Grecoks","Vrelzieks","Vronens","Aerlae",
+			"Phulnoith","Creved","Xirqen","Gax","Threqals","Bhilmuk","Mazea","Zomirs","Drorkrex","Honkrath",
+			"Zulgra","Vahars","Crindith","Raavraes","Bhoknais","ina horu","Dateatz","Lnad","Izien","ina Qolell",
+			"Dhihien","Naquiel","Ugneon","Straquks","Nulptr","Ohfahl"]
+	}
+	{
+		"name": "Antrinex Company",
+		"leaderName": "Kell",
+		"adjective": ["loyalist"],
+		"startBias": ["Avoid Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature.",
+		
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "How is it possible?",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["'Hive","'Throczan","'Chovex","'Imphet","'Omphead","'Grecoks","'Vrelzieks","'Vronens","'Aerlae",
+			"'Phulnoith","'Creved","'Xirqen","'Gax","'Threqals","'Bhilmuk","'Mazea","'Zomirs","'Drorkrex","'Honkrath",
+			"'ulgra","'ahars","'Crindith","'Raavraes","'Bhoknais","ina Qho'Qru","'Dateatz","'Elnad","'Izien","ina Qol'Ell",
+			"'Dhihien","'Naquiel","'Ugneon","'Straquks","'Nulptr","'Ohfahl"]
+	}
 ]
