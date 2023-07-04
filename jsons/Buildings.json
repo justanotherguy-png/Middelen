@@ -1,7 +1,6 @@
 [
   {
-		"name": "POW Camp",
-		"uniqueTo": ["Separatists"]
+		"name": "Prisoner Camp",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"gold": 2,
@@ -10,13 +9,12 @@
 		"requiredTech": "Archery"
   }
   {
-	        "name": "Concentration Camp",
-		"uniqueTo": ["Regima"]
+	        "name": "Paid Labour Camp",
 		"cost": 80,
 		"hurryCostModifier": 160,
-		"gold": 2,
-	        "production": 10,
-	        "uniques": ["40% of food is carried over after a new citizen is born","Destroyed when the city is captured"],
+		"production": 5,
+	        "happiness": 2,
+	        "uniques": ["5% of food is carried over after a new citizen is born","Destroyed when the city is captured"],
   }
 		
   {
