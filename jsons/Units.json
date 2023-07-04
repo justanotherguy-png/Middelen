@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Rifles",
+		"name": "Rebel Rifles",
 		"unitType": "Melee",
 		"uniqueTo": "Separatists",
 		"replaces": "Rifleman",
