@@ -61,5 +61,15 @@
 		"cost": 300,
 		"requiredTech": "Archery"
 	}
+	{
+		"name": "Longshot Missile",
+		"unitType": "Missile",
+		"replaces": "Guided Missile",
+		"strength": 60,
+		"rangedStrength": 60
+		"range": 12,
+		"cost": 1000,
+		"requiredTech": "Archery",
+	}
 
 		]
