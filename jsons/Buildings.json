@@ -20,7 +20,7 @@
   {
 		
 	        "name": "Hell",
-		"uniqueTo": ["Regima"]
+		"uniqueTo": "Regima",
 		"cost": 650,
 		"faith": 11,
                 "culture": 11,
