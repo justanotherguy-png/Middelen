@@ -14,6 +14,7 @@
 		"hurryCostModifier": 160,
 		"production": 5,
 	        "happiness": 2,
+	        "maintenance": 1,
 	        "uniques": ["5% of food is carried over after a new citizen is born","Destroyed when the city is captured"],
   }
   {
@@ -22,6 +23,7 @@
 		"culture": 2,
 	        "production": 2,
 	        "science": 6,
+	        "maintenance": 1,
 		"uniques": ["40% of food is carried over after a new citizen is born","Destroyed when the city is captured"],
 		"requiredTech": "Archery"
   }
@@ -30,6 +32,7 @@
 		"cost": 85,
 		"culture": 5,
 	        "production": 2,
+		"maitenance": 1,
 		"uniqueTo": "Separatists",
 	        "happiness": 1,
 		"uniques": ["Destroyed when the city is captured"],
