@@ -33,7 +33,7 @@
 		"strength": 80,
 		"rangedStrength": 35,
 		"range": 2,
-		"uniques": ["May withdraw before melee [10]%","[150]% Strength vs [Melee] units","Can carry [3] [Melee] units"]
+		"uniques": ["May withdraw before melee [10]%","[150]% Strength vs [Gunpowder] units","Can carry [3] [Gunpowder] units"]
 		"cost": 400,
 		"requiredTech": "Engineering"
 	}
@@ -70,6 +70,32 @@
 		"range": 12,
 		"cost": 1000,
 		"requiredTech": "Archery",
+	}
+	{
+		"name": "Militiamen",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Harbasan Republic",
+		"replaces": "Musketman",
+		"movement": 2,
+		"strength": 35,
+		"hurryCostModifier": 0,
+		"range": 1,
+		"uniques": ["May withdraw before melee [50]%","Founds a new city"]
+		"cost": 5,
+		"requiredTech": "Archery",
+	}
+	{
+	        "name": "Mercenary Infantry",
+		"unitType": "Armored",
+		"uniqueTo": "Antrinex Company",
+		"replaces": "Mechanized Infantry",
+		"movement": 4,
+		"strength": 50,
+		"rangedStrength": 45,
+		"range": 2,
+		"uniques": ["May withdraw before melee [5]%","[200]% Strength vs [Gunpowder] units","Can carry [3] [Gunpowder] units"]
+		"cost": 400,
+		"requiredTech": "Engineering"
 	}
 
 		]
