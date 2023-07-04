@@ -1,16 +1,26 @@
 [
   {
 		"name": "POW Camp",
-		"uniqueTo": ["Separatists","Regima"]
+		"uniqueTo": ["Separatists"]
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"gold": 2,
+	        "production": 10,
 		"uniques": ["40% of food is carried over after a new citizen is born","Destroyed when the city is captured"],
 		"requiredTech": "Archery"
   }
   {
+	        "name": "Concentration Camp",
+		"uniqueTo": ["Regima"]
+		"cost": 80,
+		"hurryCostModifier": 160,
+		"gold": 2,
+	        "production": 10,
+		"uniques": ["40% of food is carried over after a new citizen is born","Destroyed when the city is captured"],
+		"requiredTech": "Archery"
+  {
 		"name": "Hole Of Heretics",
-		"uniqueTo": ["Separatists","Regima"]
+		"uniqueTo": ["Regima"]
 		"cost": 650,
 		"faith": 11,
                 "culture": 11,
@@ -18,7 +28,7 @@
 		"requiredTech": "Archery"
 	        "providesFreeBuilding": "POW Camp",
 	        "isNationalWonder": "true",
-	        "quote": "To cleanse this land, and then the world, of the heretics and the disbilievers, before the eyes of God...there is no greater task and no holier deed...and now we are one step closer.",
+	        "quote": "To cleanse this land, and then the world, of the heretics and the disbilievers, before the eyes of God...there is no greater task and no holier deed...and now we are one step closer. - Zesto the High Priest",
 	        
   }
 ]
