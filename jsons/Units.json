@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Rebel Rifles",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Separatists",
 		"replaces": "Rifleman",
 		"movement": 3,
@@ -13,7 +13,7 @@
 	}
         {
 		"name": "Conscripts",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Regima",
 		"replaces": "Musketman",
 		"movement": 2,
@@ -39,7 +39,7 @@
 	}
 	{
                 "name": "Autocannon Battery",
-		"unitType": "Melee",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Separatists",
 		"replaces": "Anti-Aircraft Gun",
 		"movement": 1,
