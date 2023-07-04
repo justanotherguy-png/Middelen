@@ -33,7 +33,7 @@
 		"strength": 80,
 		"rangedStrength": 35,
 		"range": 2,
-		"uniques": ["May withdraw before melee [10]%","[+150]% Strength vs [Melee] units","Can carry [3] [Melee] units"]
+		"uniques": ["May withdraw before melee [10]%","[150]% Strength vs [Melee] units","Can carry [3] [Melee] units"]
 		"cost": 400,
 		"requiredTech": "Engineering"
 	}
@@ -46,7 +46,7 @@
 		"strength": 60,
 		"rangedStrength": 40
 		"range": 3,
-		"uniques": ["[+150]% Strength vs [Air] units","[+150]% Strength vs [Armored] units","[+100]% chance to intercept air attacks"]
+		"uniques": ["[150]% Strength vs [Air] units","[150]% Strength vs [Armored] units","[100]% chance to intercept air attacks"]
 		"cost": 300,
 		"requiredTech": "Archery"
 	}
