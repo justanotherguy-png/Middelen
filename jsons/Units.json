@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Riffles",
+		"name": "Rifles",
 		"unitType": "Melee",
 		"uniqueTo": "Separatists",
 		"replaces": "Rifleman",
@@ -18,11 +18,36 @@
 		"replaces": "Musketman",
 		"movement": 2,
 		"strength": 40,
-		"hurryCostModifier": 0
+		"hurryCostModifier": 0,
 		"range": 1,
 		"uniques": ["May withdraw before melee [40]%","Founds a new city"]
 		"cost": 20,
 		"requiredTech": "Archery",
 	}
+	{
+	        "name": "Armoured Infantry",
+		"unitType": "Armored",
+		"uniqueTo": "Regima",
+		"replaces": "Mechanized Infantry",
+		"movement": 4,
+		"strength": 80,
+		"rangedStrength": 35,
+		"range": 2,
+		"uniques": ["May withdraw before melee [10]%","[+150]% Strength vs [Melee] units","Can carry [3] [Melee] units"]
+		"cost": 400,
+		"requiredTech": "Engineering"
+	}
+	{
+                "name": "Autocannon Battery",
+		"unitType": "Melee",
+		"uniqueTo": "Separatists",
+		"replaces": "Anti-Aircraft Gun",
+		"movement": 1,
+		"strength": 60,
+		"rangedStrength": 40
+		"range": 3,
+		"uniques": ["[+150]% Strength vs [Air] units","[+150]% Strength vs [Armored] units","[+100]% chance to intercept air attacks"]
+		"cost": 300,
+		"requiredTech": "Archery"
 
 ]
