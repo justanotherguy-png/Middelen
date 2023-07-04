@@ -55,6 +55,21 @@
 	        "maintenance": 1,
 	        "uniques": ["Destroyed when the city is captured"],
   }
+	{
+	"name": "Entrenchments",
+		"cost": 140,
+		"hurryCostModifier": 160,
+		"cityHealth": 5,
+  }
+	{
+	        "name": "Retired Arms Stockpile",
+		"cost": 155,
+		"hurryCostModifier": 160,
+		"cityStrength": 5,
+	        "happiness": 1,
+	        "maintenance": 1,
+	        "uniques": ["Destroyed when the city is captured"],
+	}
   {
 		
 	        "name": "Hellhole",
