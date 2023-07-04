@@ -100,7 +100,7 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [6,6,6],
-		"innerColor": [25,20,20],
+		"innerColor": [,0,200],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Hive","Throczan","Chovex","Imphet","Omphead","Grecoks","Vrelzieks","Vronens","Aerlae",
 			"Phulnoith","Creved","Xirqen","Gax","Threqals","Bhilmuk","Mazea","Zomirs","Drorkrex","Honkrath",
