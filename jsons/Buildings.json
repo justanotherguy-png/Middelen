@@ -1,11 +1,24 @@
 [
   {
 		"name": "POW Camp",
-		"uniqueTo": "Separatists",
+		"uniqueTo": ["Separatists","Regima"]
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"gold": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"uniques": ["40% of food is carried over after a new citizen is born","Destroyed when the city is captured"],
 		"requiredTech": "Archery"
+  }
+  {
+		"name": "Hole Of Heretics",
+		"uniqueTo": ["Separatists","Regima"]
+		"cost": 650,
+		"faith": 11,
+                "culture": 11,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Archery"
+	        "providesFreeBuilding": "POW Camp",
+	        "isNationalWonder": "true",
+	        "quote": "To cleanse this land, and then the world, of the heretics and the disbilievers, before the eyes of God...there is no greater task and no holier deed...and now we are one step closer.",
+	        
   }
 ]
