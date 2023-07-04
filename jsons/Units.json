@@ -50,5 +50,16 @@
 		"cost": 300,
 		"requiredTech": "Archery"
 	}
+	{
+	        "name": "Combat Fighter",
+		"unitType": "Fighter",
+		"uniqueTo": "Regima",
+		"replaces": "Fighter",
+		"movement": 6,
+		"strength": 50,
+		"uniques": ["[150]% Strength vs [Air] units","[100]% chance to intercept air attacks"]
+		"cost": 300,
+		"requiredTech": "Archery"
+	}
 
 		]
