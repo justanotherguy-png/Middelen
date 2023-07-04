@@ -49,5 +49,6 @@
 		"uniques": ["[+150]% Strength vs [Air] units","[+150]% Strength vs [Armored] units","[+100]% chance to intercept air attacks"]
 		"cost": 300,
 		"requiredTech": "Archery"
+	}
 
-]
+		]
