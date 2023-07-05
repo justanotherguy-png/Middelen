@@ -55,6 +55,14 @@
 	        "maintenance": 1,
 	        "uniques": ["Destroyed when the city is captured"],
   }
+	  {
+	"name": "Retired Arms Stockpile",
+		"cost": 160,
+		"hurryCostModifier": 160,
+		"cityStrength": 5,
+	        "maintenance": 1,
+	        "uniques": ["Destroyed when the city is captured"],
+	  }
   {
 		
 	        "name": "Hellhole",
@@ -80,5 +88,33 @@
 		"requiredTech": "Archery"
 	        "isNationalWonder": "true",
 	        "quote": "WIP. - Zennix the Lead Director",
+	}
+	
+	{
+		
+	        "name": "Fort Voulgier",
+		"uniqueTo": "Separatists",
+		"cost": 700,
+		"production": 5,
+                "gold": 11,
+		"happiness": 2,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Archery"
+	        "isNationalWonder": "true",
+	        "quote": "WIP. - Waggus the Commander",
+	}
+	
+	{
+		
+	        "name": "Sacrificial Church",
+		"uniqueTo": "Harbasan Republic",
+		"cost": 700,
+		"faith": 8,
+                "culture": 5,
+		"happiness": 1,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Archery"
+	        "isNationalWonder": "true",
+	        "quote": "WIP. - Assan the Lead Director",
 	}
 ]
