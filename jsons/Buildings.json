@@ -63,6 +63,36 @@
 	        "maintenance": 1,
 	        "uniques": ["Destroyed when the city is captured"],
 	  }
+		  {
+	"name": "Horse Shop",
+		"cost": 70,
+	        "gold": 2,
+                "requiredResource": "Horses"
+	  }
+	{
+	"name": "Mason Shop",
+		"cost": 70,
+	        "gold": 2,
+                "requiredResource": "Stone"
+	  }
+	{
+	"name": "Meatpacking Facility",
+		"cost": 70,
+	        "gold": 2,
+                "requiredResource": "Cattle"
+	  }
+	{
+	"name": "Weaver Shop",
+		"cost": 70,
+	        "gold": 2,
+                "requiredResource": "Sheep"
+	  }
+	{
+	"name": "Gunsmith",
+		"cost": 70,
+	        "gold": 2,
+                "requiredResource": "Iron"
+		  }
   {
 		
 	        "name": "Hellhole",
