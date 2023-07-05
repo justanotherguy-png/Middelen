@@ -255,6 +255,57 @@
 		"happiness": 5,
                 "requiredResource": "Silk"
 }
+	{
+	"name": "Silverworker",
+		"cost": 70,
+	        "gold": 4,
+		"happiness": 5,
+                "requiredResource": "Silver"
+	}
+	{
+	"name": "Spice Processor",
+		"cost": 70,
+	        "gold": 4,
+		"happiness": 5,
+                "requiredResource": "Spices"
+	}
+	{
+	"name": "Sugar Processor",
+		"cost": 70,
+	        "gold": 4,
+		"happiness": 5,
+                "requiredResource": "Sugar"
+	}
+	{
+	"name": "Truffle Factory",
+		"cost": 70,
+	        "gold": 4,
+		"happiness": 5,
+                "requiredResource": "Truffles"
+	}
+{
+	"name": "Whaler",
+		"cost": 70,
+	        "gold": 3,
+		"happiness": 5,
+	"food": 1,
+                "requiredResource": "Whales"
+}
+	{
+	"name": "Uranium Factory",
+		"cost": 70,
+	        "gold": 2,
+		"prodution": 1,
+		"happiness": 5,
+                "requiredResource": "Uranium"
+	}
+	{
+	"name": "Brewery",
+		"cost": 70,
+	        "gold": 4,
+		"happiness": 5,
+                "requiredResource": "Wine"
+	}
   {
 		
 	        "name": "Hellhole",
