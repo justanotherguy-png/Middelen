@@ -67,50 +67,144 @@
 	"name": "Horse Shop",
 		"cost": 70,
 	        "gold": 2,
+                "prodution": 1,
                 "requiredResource": "Horses"
 	  }
 	{
 	"name": "Meat Plant",
 		"cost": 70,
 	        "gold": 2,
+		"food": 1,
                 "requiredResource": "Deer"
 	}
 	{
 	"name": "Banana Farm",
 		"cost": 70,
 	        "gold": 2,
+		"food": 1,
                 "requiredResource": "Bananas"
 	}
 	{
 	"name": "Bakery",
 		"cost": 70,
 	        "gold": 2,
+		"food": 1,
                 "requiredResource": "Wheat"
 	}
 	{
 	"name": "Mason Shop",
 		"cost": 70,
 	        "gold": 2,
+		"prodution": 1,
                 "requiredResource": "Stone"
 	  }
 	{
 	"name": "Meatpacking Facility",
 		"cost": 70,
 	        "gold": 2,
+		"food": 1,
                 "requiredResource": "Cattle"
 	  }
 	{
 	"name": "Weaver Shop",
 		"cost": 70,
 	        "gold": 2,
+		"food": 1,
                 "requiredResource": "Sheep"
 	  }
 	{
 	"name": "Gunsmith",
 		"cost": 70,
 	        "gold": 2,
+		"prodution": 1,
                 "requiredResource": "Iron"
 		  }
+	{
+	"name": "Metalworker",
+		"cost": 70,
+	        "gold": 4,
+		"happiness": 5,
+                "requiredResource": "Copper"
+	}
+	{
+	"name": "Aluminum Factory",
+		"cost": 70,
+	        "gold": 2,
+		"prodution": 1,
+                "requiredResource": "Aluminum"
+	}
+	{
+	"name": "Farmer's Market",
+		"cost": 70,
+	        "gold": 3,
+		"happiness": 5,
+		"food": 1,
+                "requiredResource": "Citrus"
+	}
+	{
+	"name": "Powerplant",
+		"cost": 70,
+	        "gold": 2,
+		"prodution": 1,
+                "requiredResource": "Coal"
+	}
+	{
+	"name": "Tailor",
+		"cost": 70,
+	        "gold": 4,
+		"happiness": 5,
+                "requiredResource": "Cotton"
+	}
+	{
+	"name": "Crab Packer",
+		"cost": 70,
+	        "gold": 1,
+		"food": 1,
+		"happiness": 5,
+                "requiredResource": "Crab"
+	}
+	{
+	"name": "Dye Factory",
+		"cost": 70,
+	        "gold": 4,
+		"happiness": 5,
+                "requiredResource": "Dyes"
+	}
+	{
+	"name": "Leatherworker",
+		"cost": 70,
+	        "gold": 4,
+		"happiness": 5,
+                "requiredResource": "Furs"
+	}
+	{
+	"name": "Jewelers",
+		"cost": 70,
+	        "gold": 5,
+		"happiness": 5,
+                "requiredResource": "Jewels"
+	}
+{
+	"name": "Gold Vault",
+		"cost": 70,
+	        "gold": 44,
+		"happiness": 5,
+                "requiredResource": "Gold"
+}
+	{
+	"name": "Temple",
+		"cost": 70,
+	        "gold": 4,
+		"happiness": 5,
+                "requiredResource": "Incense"
+	}
+	{
+	"name": "Ivory Factory",
+		"cost": 70,
+	        "gold": 4,
+		"happiness": 5,
+                "requiredResource": "Ivory"
+	}
   {
 		
 	        "name": "Hellhole",
