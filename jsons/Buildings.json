@@ -198,7 +198,7 @@
 		"cost": 70,
 	        "gold": 5,
 		"happiness": 5,
-                "requiredResource": "Jewels"
+                "requiredResource": "Gems"
 		"uniques": ["Limited to [99] per civilization",]
 	}
 {
@@ -206,7 +206,7 @@
 		"cost": 70,
 	        "gold": 4,
 		"happiness": 5,
-                "requiredResource": "Gold"
+                "requiredResource": "Gold Ore"
 	"uniques": ["Limited to [99] per civilization",]
 }
 	{
