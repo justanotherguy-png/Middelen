@@ -69,6 +69,7 @@
 	        "gold": 2,
                 "prodution": 1,
                 "requiredResource": "Horses"
+		"uniques": "Limited to [99] per civilization",
 	  }
 	{
 	"name": "Meat Plant",
@@ -76,6 +77,7 @@
 	        "gold": 2,
 		"food": 1,
                 "requiredResource": "Deer"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Banana Farm",
@@ -83,6 +85,7 @@
 	        "gold": 2,
 		"food": 1,
                 "requiredResource": "Bananas"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Bakery",
@@ -90,6 +93,7 @@
 	        "gold": 2,
 		"food": 1,
                 "requiredResource": "Wheat"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Mason Shop",
@@ -97,6 +101,7 @@
 	        "gold": 2,
 		"prodution": 1,
                 "requiredResource": "Stone"
+		"uniques": "Limited to [99] per civilization",
 	  }
 	{
 	"name": "Meatpacking Facility",
@@ -104,6 +109,7 @@
 	        "gold": 2,
 		"food": 1,
                 "requiredResource": "Cattle"
+		"uniques": "Limited to [99] per civilization",
 	  }
 	{
 	"name": "Weaver Shop",
@@ -111,6 +117,7 @@
 	        "gold": 2,
 		"food": 1,
                 "requiredResource": "Sheep"
+		"uniques": "Limited to [99] per civilization",
 	  }
 	{
 	"name": "Gunsmith",
@@ -118,6 +125,7 @@
 	        "gold": 2,
 		"prodution": 1,
                 "requiredResource": "Iron"
+		"uniques": "Limited to [99] per civilization",
 		  }
 	{
 	"name": "Metalworker",
@@ -125,6 +133,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Copper"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Aluminum Factory",
@@ -132,6 +141,7 @@
 	        "gold": 2,
 		"prodution": 1,
                 "requiredResource": "Aluminum"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Farmer's Market",
@@ -140,6 +150,7 @@
 		"happiness": 5,
 		"food": 1,
                 "requiredResource": "Citrus"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Powerplant",
@@ -147,6 +158,7 @@
 	        "gold": 2,
 		"prodution": 1,
                 "requiredResource": "Coal"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Tailor",
@@ -154,6 +166,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Cotton"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Crab Packer",
@@ -162,6 +175,7 @@
 		"food": 1,
 		"happiness": 5,
                 "requiredResource": "Crab"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Dye Factory",
@@ -169,6 +183,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Dyes"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Leatherworker",
@@ -176,6 +191,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Furs"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Jewelers",
@@ -183,6 +199,7 @@
 	        "gold": 5,
 		"happiness": 5,
                 "requiredResource": "Jewels"
+		"uniques": "Limited to [99] per civilization",
 	}
 {
 	"name": "Gold Vault",
@@ -190,6 +207,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Gold"
+	"uniques": "Limited to [99] per civilization",
 }
 	{
 	"name": "Temple",
@@ -197,6 +215,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Incense"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Ivory Factory",
@@ -204,6 +223,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Ivory"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Jewelry Market",
@@ -211,6 +231,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Jewelry"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Artisan Shop",
@@ -218,6 +239,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Marble"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Plastic Factory",
@@ -225,6 +247,7 @@
 	        "gold": 2,
 		"prodution": 1,
                 "requiredResource": "Oil"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Pearl Shop",
@@ -232,6 +255,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Pearls"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Porcelain Shop",
@@ -239,6 +263,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Porcelain"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Salt Refinery",
@@ -247,6 +272,7 @@
 		"happiness": 5,
 		"food": 1,
                 "requiredResource": "Salt"
+		"uniques": "Limited to [99] per civilization",
 	}
 {
 	"name": "Silk Processor",
@@ -254,6 +280,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Silk"
+	"uniques": "Limited to [99] per civilization",
 }
 	{
 	"name": "Silverworker",
@@ -261,6 +288,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Silver"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Spice Processor",
@@ -268,6 +296,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Spices"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Sugar Processor",
@@ -275,6 +304,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Sugar"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Truffle Factory",
@@ -282,6 +312,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Truffles"
+		"uniques": "Limited to [99] per civilization",
 	}
 {
 	"name": "Whaler",
@@ -290,6 +321,7 @@
 		"happiness": 5,
 	"food": 1,
                 "requiredResource": "Whales"
+	"uniques": "Limited to [99] per civilization",
 }
 	{
 	"name": "Uranium Factory",
@@ -298,6 +330,7 @@
 		"prodution": 1,
 		"happiness": 5,
                 "requiredResource": "Uranium"
+		"uniques": "Limited to [99] per civilization",
 	}
 	{
 	"name": "Brewery",
@@ -305,6 +338,7 @@
 	        "gold": 4,
 		"happiness": 5,
                 "requiredResource": "Wine"
+		"uniques": "Limited to [99] per civilization",
 	}
   {
 		
