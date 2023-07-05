@@ -93,7 +93,7 @@
 	{
 		
 	        "name": "Fort Voulgier",
-		"uniqueTo": "Separatists",
+		"uniqueTo": "Antrinex Company",
 		"cost": 700,
 		"production": 5,
                 "gold": 11,
@@ -107,7 +107,7 @@
 	{
 		
 	        "name": "Sacrificial Church",
-		"uniqueTo": "Harbasan Republic",
+		"uniqueTo": "Harbisan Republic",
 		"cost": 700,
 		"faith": 8,
                 "culture": 5,
