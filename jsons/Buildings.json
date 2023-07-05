@@ -70,6 +70,24 @@
                 "requiredResource": "Horses"
 	  }
 	{
+	"name": "Meat Plant",
+		"cost": 70,
+	        "gold": 2,
+                "requiredResource": "Deer"
+	}
+	{
+	"name": "Banana Farm",
+		"cost": 70,
+	        "gold": 2,
+                "requiredResource": "Bananas"
+	}
+	{
+	"name": "Bakery",
+		"cost": 70,
+	        "gold": 2,
+                "requiredResource": "Wheat"
+	}
+	{
 	"name": "Mason Shop",
 		"cost": 70,
 	        "gold": 2,
