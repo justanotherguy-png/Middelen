@@ -90,11 +90,11 @@
 		"uniqueTo": "Antrinex Company",
 		"replaces": "Mechanized Infantry",
 		"movement": 4,
-		"strength": 50,
+		"strength": 80,
 		"rangedStrength": 45,
 		"range": 2,
 		"uniques": ["May withdraw before melee [5]%","[200]% Strength vs [Gunpowder] units","Can carry [3] [Gunpowder] units"]
-		"cost": 130,
+		"cost": 70,
 		"requiredTech": "Engineering"
 	}
 
