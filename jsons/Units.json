@@ -7,7 +7,7 @@
 		"movement": 3,
 		"strength": 110,
 		"uniques": ["May capture killed [All] units","Earn [20]% of the damage done to [All] units as [Gold]","Can build [Fort] improvements on tiles"]
-		"cost": 70,
+		"cost": 140,
 		"requiredTech": "Archery",
 		"promotions": ["Logistics","March"]
 	}
@@ -94,7 +94,7 @@
 		"rangedStrength": 45,
 		"range": 2,
 		"uniques": ["May withdraw before melee [5]%","[200]% Strength vs [Gunpowder] units","Can carry [3] [Gunpowder] units"]
-		"cost": 400,
+		"cost": 130,
 		"requiredTech": "Engineering"
 	}
 
