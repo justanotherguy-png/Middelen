@@ -99,7 +99,7 @@
 	}
 	{
 		"name": "Bayonet Riflemen",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Regima",
 		"replaces": "Rifleman",
 		"movement": 2,
