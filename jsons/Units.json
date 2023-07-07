@@ -107,7 +107,7 @@
 		"rangedStrength": 20,
 		"hurryCostModifier": 0,
 		"range": 2,
-		"uniques": ["Must set up to ranged attack","Can move after attacking"","Can transform to [Bayonets]","Founds a new city"]
+		"uniques": ["Must set up to ranged attack","Can move after attacking","Can transform to [Bayonets]","Founds a new city"]
 		"cost": 20,
 		"requiredTech": "Archery",
 	}
