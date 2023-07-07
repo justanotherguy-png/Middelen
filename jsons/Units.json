@@ -107,7 +107,7 @@
 		"rangedStrength": 10,
 		"hurryCostModifier": 0,
 		"range": 2,
-		"uniques": ["Must set up to ranged attack"]
+		"uniques": ["Must set up to ranged attack","Can move after attacking"]
 		"cost": 20,
 		"requiredTech": "Archery",
 	}
