@@ -97,5 +97,18 @@
 		"cost": 70,
 		"requiredTech": "Engineering"
 	}
+	{
+		"name": "Bayonet Riflemen",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Regima",
+		"replaces": "Rifleman",
+		"movement": 2,
+		"strength": 40,
+		"hurryCostModifier": 0,
+		"range": 1,
+		"uniques": ["Must set up to ranged attack"]
+		"cost": 20,
+		"requiredTech": "Archery",
+	}
 
 		]
