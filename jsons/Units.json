@@ -103,9 +103,10 @@
 		"uniqueTo": "Regima",
 		"replaces": "Rifleman",
 		"movement": 2,
-		"strength": 40,
+		"strength": 80,
+		"rangedStrength": 10,
 		"hurryCostModifier": 0,
-		"range": 1,
+		"range": 2,
 		"uniques": ["Must set up to ranged attack"]
 		"cost": 20,
 		"requiredTech": "Archery",
