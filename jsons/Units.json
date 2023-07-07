@@ -99,17 +99,29 @@
 	}
 	{
 		"name": "Bayonet Riflemen",
-		"unitType": "Gunpowder",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Regima",
 		"replaces": "Rifleman",
 		"movement": 2,
-		"strength": 80,
-		"rangedStrength": 10,
+		"strength": 5,
+		"rangedStrength": 20,
 		"hurryCostModifier": 0,
 		"range": 2,
-		"uniques": ["Must set up to ranged attack","Can move after attacking"]
+		"uniques": ["Must set up to ranged attack","Can move after attacking"","Can transform to [Bayonets]"]
 		"cost": 20,
 		"requiredTech": "Archery",
 	}
+{
+		"name": "Bayonets",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Regima",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 30,
+		"hurryCostModifier": 0,
+		"uniques": ["Can move after attacking","Can transform to [Bayonet Riflemen]"]
+		"cost": 20,
+		"requiredTech": "Archery",
+}
 
 		]
