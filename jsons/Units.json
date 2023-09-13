@@ -67,8 +67,8 @@
 		"replaces": "Guided Missile",
 		"strength": 60,
 		"rangedStrength": 60
-		"range": 12,
-		"cost": 1000,
+		"range": 20,
+		"cost": 350,
 		"requiredTech": "Archery",
 	}
 	{
