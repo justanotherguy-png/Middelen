@@ -44,9 +44,9 @@
 		"replaces": "Anti-Aircraft Gun",
 		"movement": 1,
 		"strength": 60,
-		"rangedStrength": 40
-		"range": 3,
-		"uniques": ["[150]% Strength vs [Air] units","[150]% Strength vs [Armored] units","[100]% chance to intercept air attacks"]
+		"rangedStrength": 70
+		"range": 6,
+		"uniques": ["[200]% Strength vs [Air] units","[200]% Strength vs [Armored] units","[100]% chance to intercept air attacks"]
 		"cost": 300,
 		"requiredTech": "Archery"
 	}
