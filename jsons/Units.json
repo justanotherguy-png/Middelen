@@ -103,6 +103,7 @@
 		"movement": 2,
 		"strength": 20,
 		"unitType": "Gunpowder",
+		"cost": 60
 	}
 	
 
