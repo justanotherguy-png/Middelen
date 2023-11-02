@@ -45,6 +45,7 @@
 		"movement": 1,
 		"strength": 60,
 		"rangedStrength": 70
+		"interceptRange" : 8,
 		"range": 6,
 		"uniques": ["[200]% Strength vs [Air] units","[200]% Strength vs [Armored] units","[100]% chance to intercept air attacks"]
 		"cost": 300,
