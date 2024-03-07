@@ -1,9 +1,9 @@
 [
 	{
 		"name": "Jaguars",
-		"unitType": "Jaguar",
-		"uniqueTo": "Separatists",
-		"replaces": "Swordsman",
+		"unitType": "Sword",
+		"uniqueTo": "Chiefdom",
+		"replaces": "Jaguar",
 		"movement": 2,
 		"strength": 50,
 		"uniques": ["May capture killed [All] units"]
@@ -12,7 +12,7 @@
 	{
 		"name": "Eagles",
 		"unitType": "Sword",
-		"uniqueTo": "Separatists",
+		"uniqueTo": "Chiefdom",
 		"replaces": "Pikeman",
 		"movement": 2,
 		"strength": 35,
@@ -22,7 +22,7 @@
 	{
 		"name": "Spearthrowers",
 		"unitType": "Sword",
-		"uniqueTo": "Separatists",
+		"uniqueTo": "Chiefdom",
 		"replaces": "Skirmisher",
 		"movement": 2,
 		"rangedStrength": 40
@@ -33,7 +33,7 @@
 	{
 		"name": "Harriers",
 		"unitType": "Archery",
-		"uniqueTo": "Separatists",
+		"uniqueTo": "Chiefdom",
 		"replaces": "Archer",
 		"movement": 2,
 		"rangedStrength": 18
@@ -45,7 +45,7 @@
 	{
 		"name": "Crossbow Archers",
 		"unitType": "Archery",
-		"uniqueTo": "Separatists",
+		"uniqueTo": "Chiefdom",
 		"replaces": "Crossbowman",
 		"movement": 2,
 		"rangedStrength": 34
@@ -56,7 +56,7 @@
 	{
 		"name": "Handgunners",
 		"unitType": "Ranged Gunpowder",
-		"uniqueTo": "Separatists",
+		"uniqueTo": "Chiefdom",
 		"replaces": "Musketman",
 		"movement": 2,
 		"rangedStrength": 51
@@ -68,7 +68,7 @@
 	{
 		"name": "Cannonade",
 		"unitType": "Ranged Gunpowder",
-		"uniqueTo": "Separatists",
+		"uniqueTo": "Chiefdom",
 		"replaces": "Cannon",
 		"movement": 1,
 		"rangedStrength": 60
@@ -76,6 +76,66 @@
 		"strength": 15,
 		"uniques": ["Must set up to ranged attack","[200%] Strength vs. [City] units"]
 		"cost": 200,
+	}
+	{
+		"name": "Noblemen",
+		"unitType": "Sword",
+		"uniqueTo": "Crusaders",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 50,
+		"uniques": ["May capture killed [All] units","[150%] Strength vs. [Sword] units","[150%] Strength vs. [Archery] units","[150%] Strength vs. [Ranged Gunpowder] units"]
+		"cost": 144,
+	}
+	{
+		"name": "Conquerors",
+		"unitType": "Sword",
+		"uniqueTo": "Crusaders",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 28,
+		"uniques": ["May capture killed [All] units","[150%] Strength vs. [Mounted] units","Founds a new city"]
+		"cost": 45,
+	}
+	{
+		"name": "Repeaters",
+		"unitType": "Archery",
+		"uniqueTo": "Crusaders",
+		"replaces": "Chu-Ko-Nu",
+		"movement": 2,
+		"strength": 28,
+		"uniques": ["[1] additional attacks per turn","Founds a new city"]
+		"cost": 45,
+	}{
+		"name": "Gunners",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Crusaders",
+		"replaces": "Cannon",
+		"movement": 2,
+		"strength": 18,
+		"range": 5,
+		"rangedStrength": 59
+		"cost": 140,
+	}
+	{
+		"name": "Mercenary Infantry",
+		"unitType": "Sword",
+		"uniqueTo": "Mer",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 55,
+		"uniques": ["May capture killed [All] units"]
+		"cost": 120,
+	}
+	{
+		"name": "Mercenary Guards",
+		"unitType": "Sword",
+		"uniqueTo": "Crusaders",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 45,
+		"uniques": ["May capture killed [All] units"]
+		"cost": 120,
 	}
 	
 
