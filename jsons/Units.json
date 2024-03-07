@@ -1,110 +1,81 @@
 [
 	{
-		"name": "Rebel Rifles",
-		"unitType": "Gunpowder",
+		"name": "Jaguars",
+		"unitType": "Jaguar",
 		"uniqueTo": "Separatists",
-		"replaces": "Rifleman",
-		"movement": 3,
-		"strength": 110,
-		"uniques": ["May capture killed [All] units","Earn [20]% of the damage done to [All] units as [Gold]","Can build [Fort] improvements on tiles"]
-		"cost": 140,
-		"requiredTech": "Archery",
-		"promotions": ["Logistics","March"]
-	}
-        {
-		"name": "Conscripts",
-		"unitType": "Gunpowder",
-		"uniqueTo": "Regima",
-		"replaces": "Musketman",
+		"replaces": "Swordsman",
 		"movement": 2,
-		"strength": 40,
-		"hurryCostModifier": 0,
-		"range": 1,
-		"uniques": ["May withdraw before melee [40]%","Founds a new city"]
-		"cost": 20,
-		"requiredTech": "Archery",
-	}
-	{
-	        "name": "Armoured Infantry",
-		"unitType": "Armored",
-		"uniqueTo": "Regima",
-		"replaces": "Mechanized Infantry",
-		"movement": 4,
-		"strength": 80,
-		"rangedStrength": 35,
-		"range": 2,
-		"uniques": ["May withdraw before melee [10]%","[150]% Strength vs [Gunpowder] units","Can carry [3] [Gunpowder] units"]
-		"cost": 400,
-		"requiredTech": "Engineering"
-	}
-	{
-                "name": "Autocannon Battery",
-		"unitType": "Ranged Gunpowder",
-		"uniqueTo": "Separatists",
-		"replaces": "Anti-Aircraft Gun",
-		"movement": 1,
-		"strength": 60,
-		"rangedStrength": 70
-		"interceptRange" : 8,
-		"range": 6,
-		"uniques": ["[200]% Strength vs [Air] units","[200]% Strength vs [Armored] units","[100]% chance to intercept air attacks"]
-		"cost": 300,
-		"requiredTech": "Archery"
-	}
-	{
-	        "name": "Combat Fighter",
-		"unitType": "Fighter",
-		"uniqueTo": "Regima",
-		"replaces": "Fighter",
-		"movement": 6,
 		"strength": 50,
-		"uniques": ["[150]% Strength vs [Air] units","[100]% chance to intercept air attacks"]
-		"cost": 300,
-		"requiredTech": "Archery"
+		"uniques": ["May capture killed [All] units"]
+		"cost": 140,
 	}
 	{
-		"name": "Longshot Missile",
-		"unitType": "Missile",
-		"replaces": "Guided Missile",
-		"strength": 60,
-		"rangedStrength": 60
-		"range": 20,
-		"cost": 350,
-		"requiredTech": "Archery",
-	}
-	{
-		"name": "Militiamen",
-		"unitType": "Gunpowder",
-		"uniqueTo": "Harbisan Republic",
-		"replaces": "Musketman",
-		"movement": 2,
-		"strength": 35,
-		"hurryCostModifier": 0,
-		"range": 1,
-		"uniques": ["May withdraw before melee [50]%","Founds a new city"]
-		"cost": 5,
-		"requiredTech": "Archery",
-	}
-	{
-	        "name": "Mercenary Infantry",
-		"unitType": "Armored",
-		"uniqueTo": "Antrinex Company",
-		"replaces": "Mechanized Infantry",
-		"movement": 4,
-		"strength": 80,
-		"rangedStrength": 45,
-		"range": 2,
-		"uniques": ["May withdraw before melee [5]%","[200]% Strength vs [Gunpowder] units","Can carry [3] [Gunpowder] units"]
-		"cost": 70,
-		"requiredTech": "Engineering"
-	}
-	{
-		"name": "Civilian Soldiers",
+		"name": "Eagles",
+		"unitType": "Sword",
+		"uniqueTo": "Separatists",
 		"replaces": "Pikeman",
 		"movement": 2,
-		"strength": 20,
-		"unitType": "Gunpowder",
-		"cost": 60
+		"strength": 35,
+		"uniques": ["May capture killed [All] units","[150%] Strength vs. [Mounted] units"]
+		"cost": 110,
+	}
+	{
+		"name": "Spearthrowers",
+		"unitType": "Sword",
+		"uniqueTo": "Separatists",
+		"replaces": "Skirmisher",
+		"movement": 2,
+		"rangedStrength": 40
+		"range": 2
+		"strength": 30,
+		"cost": 130,
+	}
+	{
+		"name": "Harriers",
+		"unitType": "Archery",
+		"uniqueTo": "Separatists",
+		"replaces": "Archer",
+		"movement": 2,
+		"rangedStrength": 18
+		"range": 3
+		"strength": 0,
+		"uniques": ["[1] additional attacks per turn"]
+		"cost": 105,
+	}
+	{
+		"name": "Crossbow Archers",
+		"unitType": "Archery",
+		"uniqueTo": "Separatists",
+		"replaces": "Crossbowman",
+		"movement": 2,
+		"rangedStrength": 34
+		"range": 2
+		"strength": 15,
+		"cost": 120,
+	}
+	{
+		"name": "Handgunners",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Separatists",
+		"replaces": "Musketman",
+		"movement": 2,
+		"rangedStrength": 51
+		"range": 3
+		"strength": 24,
+		"uniques": ["Must set up to ranged attack"]
+		"cost": 155,
+	}
+	{
+		"name": "Cannonade",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Separatists",
+		"replaces": "Cannon",
+		"movement": 1,
+		"rangedStrength": 60
+		"range": 6
+		"strength": 15,
+		"uniques": ["Must set up to ranged attack","[200%] Strength vs. [City] units"]
+		"cost": 200,
 	}
 	
 
