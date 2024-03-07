@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Separatists",
-		"leaderName": "Zyxxyz",
-		"adjective": ["rebel"],
+		"name": "Chiefdom",
+		"leaderName": "Chief",
+		"adjective": ["peoples"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Bayonets to Penentrate!!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Blades to Penentrate!!",
 		
 		"declaringWar": "Resistance is futile! Prepare to be penentrated!",
 		"attacked": "You want to play? Very funny!",
@@ -37,8 +37,8 @@
 	}
 	{
 		"name": "Regima",
-		"leaderName": "Zesto",
-		"adjective": ["loyalist"],
+		"leaderName": "Zeto",
+		"adjective": ["loyalists"],
 		"startBias": ["Avoid Desert"],
 		"preferredVictoryType": "Domination",
 		
@@ -72,9 +72,9 @@
 			"P'Dhihien","P'Naquiel","P'Ugneon","P'Straquks","P'Nulptr","P'Ohfahl"]
 	}
 	{
-		"name": "Harbisan Republic",
-		"leaderName": "Malden",
-		"adjective": ["loyalist"],
+		"name": "Crusaders",
+		"leaderName": "Father",
+		"adjective": ["crusaders"],
 		"startBias": ["Avoid Desert"],
 		"preferredVictoryType": "Domination",
 		
@@ -108,9 +108,9 @@
 			"Dhihien","Naquiel","Ugneon","Straquks","Nulptr","Ohfahl"]
 	}
 	{
-		"name": "Antrinex Company",
+		"name": "Lancer Guard",
 		"leaderName": "Kell",
-		"adjective": ["loyalist"],
+		"adjective": ["Mercs"],
 		"startBias": ["Avoid Desert"],
 		"preferredVictoryType": "Domination",
 		
