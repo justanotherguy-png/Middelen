@@ -3,7 +3,7 @@
 		"name": "Jaguars",
 		"unitType": "Sword",
 		"uniqueTo": "Chiefdom",
-		"replaces": "Jaguar",
+		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 50,
 		"uniques": ["May capture killed [All] units"]
@@ -23,7 +23,7 @@
 		"name": "Spearthrowers",
 		"unitType": "Sword",
 		"uniqueTo": "Chiefdom",
-		"replaces": "Skirmisher",
+		"replaces": "Spearman",
 		"movement": 2,
 		"rangedStrength": 40
 		"range": 2
@@ -81,7 +81,7 @@
 		"name": "Riders",
 		"unitType": "Mounted",
 		"uniqueTo": "Cheifdom",
-		"replaces": "Keshik",
+		"replaces": "Horseman",
 		"movement": 4,
 		"strength": 39,
 		"range": 2
@@ -112,7 +112,7 @@
 		"name": "Repeaters",
 		"unitType": "Archery",
 		"uniqueTo": "Crusaders",
-		"replaces": "Chu-Ko-Nu",
+		"replaces": "Crossbowman",
 		"movement": 2,
 		"range": 2
 		"rangedStrength": 17
@@ -166,7 +166,7 @@
 		"name": "Mercenary Shooters",
 		"unitType": "Archery",
 		"uniqueTo": "Lancer Guard",
-		"replaces": "Longbowman",
+		"replaces": "Archer",
 		"movement": 2,
 		"strength": 17,
 		"rangedStrength": 22
@@ -177,7 +177,7 @@
 		"name": "Mercenary Arquebusiers",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Lancer Guard",
-		"replaces": "Conquistador",
+		"replaces": "Musketman",
 		"movement": 2,
 		"strength": 19,
 		"rangedStrength": 58
@@ -210,7 +210,7 @@
 		"replaces": "Pikeman",
 		"movement": 2,
 		"strength": 25,
-		"uniques": ["May capture killed [All] units"]
+		"uniques": ["May capture killed [All] units","Founds a new city"]
 		"cost": 20,
 	}
 	{
