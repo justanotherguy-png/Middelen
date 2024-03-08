@@ -117,7 +117,8 @@
 		"strength": 28,
 		"uniques": ["[1] additional attacks per turn","Founds a new city"]
 		"cost": 45,
-	}{
+	}
+	{
 		"name": "Gunners",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Crusaders",
