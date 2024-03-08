@@ -201,7 +201,8 @@
 		"strength": 45,
 		"uniques": ["May capture killed [All] units"]
 		"cost": 95,
-	}{
+	}
+	{
 		"name": "Peasant Soldiers",
 		"unitType": "Sword",
 		"replaces": "Pikeman",
