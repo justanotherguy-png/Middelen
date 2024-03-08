@@ -220,7 +220,8 @@
 		"strength": 50,
 		"uniques": ["May capture killed [All] units"]
 		"cost": 125,
-	}{
+	}
+	{
 		"name": "Bombard",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Regima",
