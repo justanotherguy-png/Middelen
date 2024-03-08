@@ -38,7 +38,7 @@
 		"movement": 2,
 		"rangedStrength": 18
 		"range": 3
-		"strength": 0,
+		"strength": 10,
 		"uniques": ["[1] additional attacks per turn"]
 		"cost": 105,
 	}
@@ -114,7 +114,9 @@
 		"uniqueTo": "Crusaders",
 		"replaces": "Chu-Ko-Nu",
 		"movement": 2,
-		"strength": 28,
+		"range": 2
+		"rangedStrength": 17
+		"strength": 8,
 		"uniques": ["[1] additional attacks per turn","Founds a new city"]
 		"cost": 45,
 	}
