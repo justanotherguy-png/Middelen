@@ -78,13 +78,24 @@
 		"cost": 200,
 	}
 	{
+		"name": "Riders",
+		"unitType": "Mounted",
+		"uniqueTo": "Cheifdom",
+		"replaces": "Keshik",
+		"movement": 4,
+		"strength": 39,
+		"range": 2
+		"rangedStrength": 41
+		"cost": 156,
+	}
+	{
 		"name": "Noblemen",
 		"unitType": "Sword",
 		"uniqueTo": "Crusaders",
 		"replaces": "Swordsman",
 		"movement": 2,
-		"strength": 50,
-		"uniques": ["May capture killed [All] units","[150%] Strength vs. [Sword] units","[150%] Strength vs. [Archery] units","[150%] Strength vs. [Ranged Gunpowder] units"]
+		"strength": 56,
+		"uniques": ["May capture killed [All] units"]
 		"cost": 144,
 	}
 	{
@@ -114,13 +125,24 @@
 		"movement": 2,
 		"strength": 18,
 		"range": 5,
+		"uniques": ["Must set up to ranged attack"]
 		"rangedStrength": 59
 		"cost": 140,
 	}
 	{
+		"name": "Lancers",
+		"unitType": "Mounted",
+		"uniqueTo": "Crusaders",
+		"replaces": "Lancer",
+		"movement": 5,
+		"strength": 55,
+		"uniques": ["[150%] Strength vs. [Sword] units","[150%] Strength vs. [Archery] units","[150%] Strength vs. [Ranged Gunpowder] units"]
+		"cost": 150,
+	}
+	{
 		"name": "Mercenary Infantry",
 		"unitType": "Sword",
-		"uniqueTo": "Mer",
+		"uniqueTo": "Lancer Guard",
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 55,
@@ -130,12 +152,83 @@
 	{
 		"name": "Mercenary Guards",
 		"unitType": "Sword",
-		"uniqueTo": "Crusaders",
+		"uniqueTo": "Lancer Guard",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 45,
+		"uniques": ["May capture killed [All] units","[150%] Strength vs. [Mounted] units"]
+		"cost": 106,
+	}
+	{
+		"name": "Mercenary Shooters",
+		"unitType": "Archery",
+		"uniqueTo": "Lancer Guard",
+		"replaces": "Longbowman",
+		"movement": 2,
+		"strength": 17,
+		"rangedStrength": 22
+		"uniques": ["[1] additional attacks per turn"]
+		"cost": 110,
+	}
+	{
+		"name": "Mercenary Arquebusiers",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Lancer Guard",
+		"replaces": "Conquistador",
+		"movement": 2,
+		"strength": 19,
+		"rangedStrength": 58
+		"uniques": ["Must set up to ranged attack"]
+		"cost": 110,
+	}
+	{
+		"name": "Shock Cavalry",
+		"unitType": "Mounted",
+		"uniqueTo": "Lancer Guard",
+		"replaces": "Knight",
+		"movement": 5,
+		"strength": 65,
+		"uniques": ["[150%] Strength vs. [Sword] units","[150%] Strength vs. [Archery] units","[150%] Strength vs. [Ranged Gunpowder] units"]
+		"cost": 165,
+	}
+	{
+		"name": "Peacekeepers",
+		"unitType": "Sword",
+		"uniqueTo": "Regima",
 		"replaces": "Pikeman",
 		"movement": 2,
 		"strength": 45,
 		"uniques": ["May capture killed [All] units"]
-		"cost": 120,
+		"cost": 95,
+	}{
+		"name": "Peasant Soldiers",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 25,
+		"uniques": ["May capture killed [All] units"]
+		"cost": 20,
+	}
+	{
+		"name": "Mounted Peacekeepers",
+		"unitType": "Sword",
+		"uniqueTo": "Regima",
+		"replaces": "Knight",
+		"movement": 5,
+		"strength": 50,
+		"uniques": ["May capture killed [All] units"]
+		"cost": 125,
+	}{
+		"name": "Bombard",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Regima",
+		"replaces": "Cannon",
+		"movement": 1,
+		"strength": 15,
+		"range": 7
+		"rangedStrength": 70
+		"uniques": ["Must set up to ranged attack","[200%] Strength vs. [City] units"]
+		"cost": 155,
 	}
 	
 
