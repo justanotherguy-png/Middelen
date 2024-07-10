@@ -47,21 +47,21 @@
   {
     "name": "Cavalry"
     "movementType": "Land"
-    "uniques": ""
+    "uniques": "Can move after attacking"
   }
   {
     "name": "Lancers"
     "movementType": "Land"
-    "uniques": ""
+    "uniques": "Can move after attacking"
   }
   {
     "name": "Skirmishers"
     "movementType": "Land"
-    "uniques": ""
+    "uniques": "Can move after attacking"
   }
   {
     "name": "Rangers"
     "movementType": "Land"
-    "uniques": ""
+    "uniques": "Can move after attacking"
   }
 ]
