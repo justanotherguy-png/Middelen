@@ -10,6 +10,11 @@
     "uniques": ""
   }
   {
+    "name": "Pikes"
+    "movementType": "Land"
+    "uniques": ""
+  }
+  {
     "name": "Archers"
     "movementType": "Land"
     "uniques": ""
