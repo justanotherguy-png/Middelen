@@ -2,7 +2,7 @@
   {
     "name": "Infantry"
     "movementType": "Land"
-    "uniques": ""
+    "uniques": "[+35]% Strength <vs {Archers} {Crossbows} {Throwers} {Gunners} {Machines} {Artillery} units>"
   }
   {
     "name": "Spears"
