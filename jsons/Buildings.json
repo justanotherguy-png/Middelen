@@ -131,7 +131,7 @@
 	"name": "Metalworker",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Copper"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -147,7 +147,7 @@
 	"name": "Farmer's Market",
 		"cost": 70,
 	        "gold": 3,
-		"happiness": 5,
+		"happiness": 1,
 		"food": 1,
                 "requiredResource": "Citrus"
 		"uniques": ["Cost increases by [3] when built"]
@@ -164,7 +164,7 @@
 	"name": "Tailor",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Cotton"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -173,7 +173,7 @@
 		"cost": 70,
 	        "gold": 3,
 		"food": 1,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Crab"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -181,7 +181,7 @@
 	"name": "Dye Factory",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Dyes"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -189,7 +189,7 @@
 	"name": "Leatherworker",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Furs"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -197,7 +197,7 @@
 	"name": "Jewelers",
 		"cost": 70,
 	        "gold": 5,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Gems"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -205,7 +205,7 @@
 	"name": "Gold Vault",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Gold Ore"
 	"uniques": ["Cost increases by [3] when built"]
 }
@@ -213,7 +213,7 @@
 	"name": "Temple",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Incense"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -221,7 +221,7 @@
 	"name": "Ivory Factory",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Ivory"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -229,7 +229,7 @@
 	"name": "Jewelry Market",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Jewelry"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -237,7 +237,7 @@
 	"name": "Artisan Shop",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Marble"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -253,7 +253,7 @@
 	"name": "Pearl Shop",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Pearls"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -261,7 +261,7 @@
 	"name": "Porcelain Shop",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Porcelain"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -269,7 +269,7 @@
 	"name": "Salt Refinery",
 		"cost": 70,
 	        "gold": 3,
-		"happiness": 5,
+		"happiness": 1,
 		"food": 1,
                 "requiredResource": "Salt"
 		"uniques": ["Cost increases by [3] when built"]
@@ -278,7 +278,7 @@
 	"name": "Silk Processor",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Silk"
 	"uniques": ["Cost increases by [3] when built"]
 }
@@ -286,7 +286,7 @@
 	"name": "Silverworker",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Silver"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -294,7 +294,7 @@
 	"name": "Spice Processor",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Spices"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -302,7 +302,7 @@
 	"name": "Sugar Processor",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Sugar"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -310,7 +310,7 @@
 	"name": "Truffle Factory",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Truffles"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -318,7 +318,7 @@
 	"name": "Whaler",
 		"cost": 70,
 	        "gold": 3,
-		"happiness": 5,
+		"happiness": 1,
 	"food": 1,
                 "requiredResource": "Whales"
 	"uniques": ["Cost increases by [3] when built"]
@@ -328,7 +328,7 @@
 		"cost": 70,
 	        "gold": 2,
 		"prodution": 1,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Uranium"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -336,7 +336,7 @@
 	"name": "Brewery",
 		"cost": 70,
 	        "gold": 4,
-		"happiness": 5,
+		"happiness": 1,
                 "requiredResource": "Wine"
 		"uniques": ["Cost increases by [3] when built"]
 	}
@@ -364,7 +364,7 @@
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Archery"
 	        "isNationalWonder": "true",
-	        "quote": "WIP. - Zennix the Lead Director",
+	        "quote": "WIP. - Zennix the Chief",
 	}
 	
 	{
@@ -383,7 +383,7 @@
 	
 	{
 		
-	        "name": "Sacrificial Church",
+	        "name": "Great Church",
 		"uniqueTo": "Crusaders",
 		"cost": 700,
 		"faith": 8,
@@ -392,6 +392,6 @@
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Archery"
 	        "isNationalWonder": "true",
-	        "quote": "WIP. - Assan the Lead Director",
+	        "quote": "WIP. - Assan the Inquisitor",
 	}
 ]
