@@ -7,7 +7,7 @@
   {
     "name": "Spears"
     "movementType": "Land"
-    "uniques": ""
+    "uniques": "[+15]% Strength <when defending>"
   }
   {
     "name": "Pikes"
