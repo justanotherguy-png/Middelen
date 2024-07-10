@@ -7,12 +7,12 @@
   {
     "name": "Spears"
     "movementType": "Land"
-    "uniques": "[+15]% Strength <when defending>"
+    "uniques": "[+15]% Strength <when defending>,[+20]% Strength <vs {Cavalry} {Lancers} {Skirmishers} {Rangers} units>"
   }
   {
     "name": "Pikes"
     "movementType": "Land"
-    "uniques": "[+35]% Strength <when defending>"
+    "uniques": "[+35]% Strength <when defending>,[+40]% Strength <vs {Cavalry} {Lancers} {Skirmishers} {Rangers} units>"
   }
   {
     "name": "Archers"
