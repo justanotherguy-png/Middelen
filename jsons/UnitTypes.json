@@ -5,32 +5,32 @@
     "uniques": ""
   }
   {
-    "name": "Spear"
+    "name": "Spears"
     "movementType": "Land"
     "uniques": ""
   }
   {
-    "name": "Archer"
+    "name": "Archers"
     "movementType": "Land"
     "uniques": ""
   }
   {
-    "name": "Crossbow"
+    "name": "Crossbows"
     "movementType": "Land"
     "uniques": ""
   }
   {
-    "name": "Thrower"
+    "name": "Throwers"
     "movementType": "Land"
     "uniques": ""
   }
    {
-    "name": "Gunner"
+    "name": "Gunners"
     "movementType": "Land"
     "uniques": ""
   }
   {
-    "name": "Machine"
+    "name": "Machines"
     "movementType": "Land"
     "uniques": ""
   }
@@ -40,7 +40,22 @@
     "uniques": ""
   }
   {
-    "name": ""
+    "name": "Cavalry"
+    "movementType": "Land"
+    "uniques": ""
+  }
+  {
+    "name": "Lancers"
+    "movementType": "Land"
+    "uniques": ""
+  }
+  {
+    "name": "Skirmishers"
+    "movementType": "Land"
+    "uniques": ""
+  }
+  {
+    "name": "Rangers"
     "movementType": "Land"
     "uniques": ""
   }
