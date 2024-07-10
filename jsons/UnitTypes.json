@@ -12,7 +12,7 @@
   {
     "name": "Pikes"
     "movementType": "Land"
-    "uniques": ""
+    "uniques": "[+35]% Strength <when defending>"
   }
   {
     "name": "Archers"
