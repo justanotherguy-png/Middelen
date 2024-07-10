@@ -1,5 +1,47 @@
 [
   {
-    
+    "name": "Infantry"
+    "movementType": "Land"
+    "uniques": ""
+  }
+  {
+    "name": "Spear"
+    "movementType": "Land"
+    "uniques": ""
+  }
+  {
+    "name": "Archer"
+    "movementType": "Land"
+    "uniques": ""
+  }
+  {
+    "name": "Crossbow"
+    "movementType": "Land"
+    "uniques": ""
+  }
+  {
+    "name": "Thrower"
+    "movementType": "Land"
+    "uniques": ""
+  }
+   {
+    "name": "Gunner"
+    "movementType": "Land"
+    "uniques": ""
+  }
+  {
+    "name": "Machine"
+    "movementType": "Land"
+    "uniques": ""
+  }
+  {
+    "name": "Artillery"
+    "movementType": "Land"
+    "uniques": ""
+  }
+  {
+    "name": ""
+    "movementType": "Land"
+    "uniques": ""
   }
 ]
