@@ -32,17 +32,17 @@
    {
     "name": "Gunners"
     "movementType": "Land"
-    "uniques": ""
+    "uniques": "Must set up to ranged attack"
   }
   {
     "name": "Machines"
     "movementType": "Land"
-    "uniques": ""
+    "uniques": "Must set up to ranged attack"
   }
   {
     "name": "Artillery"
     "movementType": "Land"
-    "uniques": ""
+    "uniques": "Must set up to ranged attack"
   }
   {
     "name": "Cavalry"
